@@ -1,0 +1,3 @@
+-   data transfer from the parent component to the child component is passed throuch props.
+-   data transfer from the child component to the parent component is also passed throuch props but with a call back function.
+

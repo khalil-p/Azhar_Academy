@@ -1,0 +1,26 @@
+.header {
+    text-align: center;
+}
+
+.cardList {
+    margin: 1rem 1rem 1rem 1rem;
+}
+
+.card {
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.info {
+    margin-left: 1rem;
+}
+
+.info h4,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.card img {
+    width: 5rem;
+}

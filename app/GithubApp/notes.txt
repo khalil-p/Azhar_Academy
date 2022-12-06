@@ -1,0 +1,2 @@
+parent to child using props
+child to parent using props but using call back function

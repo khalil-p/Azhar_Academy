@@ -1,0 +1,4 @@
+JavaScript Sets :
+It's also an interview question.
+JavaScript is a collection of unique values.
+Each value can only occur once in a set
